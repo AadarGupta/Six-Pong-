@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5b7b1caf7322e444d9bf4a950b7441be
+timeCreated: 1539547962
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cricket
+  fontNames:
+  - Cricket
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
